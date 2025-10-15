@@ -1,0 +1,40 @@
+* {
+    /* background-color: orange; */
+}
+
+p {
+    /* color: coral; */
+}
+
+h1 {
+    color: blue;
+}
+
+.Box>h1,
+.Box>h2,
+.Box>h3 {
+    color: hotpink;
+}
+
+#one>p {
+    color: olive;
+    background-color: forestgreen;
+}
+
+p {
+    background-image: url(./Assets/Vijay\ Dhanuja.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: 1px;
+}

@@ -1,32 +1,74 @@
 HTML - Hyper text markup language
 
-* To create a web pages
-* Not a Programming language
-* Its a markup language
-* Every website starts with HTML
+- To create a web pages
+- Not a Programming language
+- Its a markup language
+- Every website starts with HTML
 
-1) Heading - h1 to h6
+1. Heading - h1 to h6
 
-2) paragraph - p
+2. paragraph - p
 
-3) hr
+3. hr
 
-4) br
+4. br
 
-5) Text formating -b or strong, i, u, mark, sub and sup........
+5. Text formating -b or strong, i, u, mark, sub and sup........
 
-6) Anchor Tag - a
+6. Anchor Tag - a
 
-7) Image tag - img
+7. Image tag - img
 
-8) list - order list and unorder list
+8. list - order list and unorder list
 
-9) Tables - tr, th and td
+9. Tables - tr, th and td
 
-10) Forms - input and label
+10. Forms - input and label
 
-11) Media elements - Audio and video 
+11. Media elements - Audio and video
 
-12) Sematic tags - header, footer, section, nav and main
+12. Sematic tags - header, footer, section, nav and main
 
-13) Division tag - div
+13. Division tag - div
+
+
+
+
+CSS - Cascading Style Sheet
+
+1. Types of css
+   i - Inline
+   ii - Internal
+   iii - External
+
+inline > internal > external
+
+2. CSS Synatax
+   selector {
+   property: value;
+   }
+
+3. types of selector
+   i - element selector - (p), (h3)
+   ii - class selector (.) - multiple type can use the same class name because its number of time
+   iii - id selector (#) - only one time can use the same id name because its unique
+   iv - universal selector (\*) - for entire site it will act
+   v - group selector -
+
+4. Colors and background
+   color: red; ( font color )
+   background-color: olive;
+   background-image: url(./Assets/Ajith\ image.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+5. Text Styling
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 30px;
+   text-align: center;
+   text-transform: uppercase;
+   text-decoration: line-through;
+   font-weight: bold;
+   line-height: 1;
+   letter-spacing: 1px;
