@@ -31,9 +31,6 @@ HTML - Hyper text markup language
 
 13. Division tag - div
 
-
-
-
 CSS - Cascading Style Sheet
 
 1. Types of css
@@ -72,3 +69,15 @@ inline > internal > external
    font-weight: bold;
    line-height: 1;
    letter-spacing: 1px;
+
+6. Box modeling
+   margin
+   border
+   padding
+   content
+
+7. Flex
+   direction - row, row-reverse, column, column-reverse
+   justify-content (X) - start, center, end, space-around, space-evenly, space-between
+   align-items (Y) - start, center, end
+   flex-wrap - no-wrap, wrap, wrap-reverse
