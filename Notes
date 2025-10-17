@@ -81,3 +81,14 @@ inline > internal > external
    justify-content (X) - start, center, end, space-around, space-evenly, space-between
    align-items (Y) - start, center, end
    flex-wrap - no-wrap, wrap, wrap-reverse
+   align-content - (flex wrap enable then only it will act) - start, center, end, space-around, space-evenly, space-between
+   gap - to be assign with values
+   flex (on items) - for growing equally
+   order - Change the visual order of the flex items
+
+8. Position 
+   i - static - default
+   ii - relative
+   iii - absolute 
+   iv - fixed
+   v- sticky
